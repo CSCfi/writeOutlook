@@ -29,17 +29,6 @@ dotnet build
 dotnet run -- "Projektipalaveri" "2025-11-04T08:00:00"
 ```
 
-
-
-## Integrate with your tools
-
-- [ ] [Set up project integrations](https://gitlab.ci.csc.fi/pid-microservice/kalenteri/writetooutlook/-/settings/integrations)
-
-## Collaborate with your team
-
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-
-
 ## Description
 
 Tämän koodib on copilot kirjoittanut Kajaanin vierailujen synkronoimiseksi outlookkiin, slottiin, näytöille ja kenties portillekin.
